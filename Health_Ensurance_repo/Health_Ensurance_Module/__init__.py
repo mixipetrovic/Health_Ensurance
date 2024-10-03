@@ -1,1 +1,1 @@
-from Health_Ensurance_Module import config  # noqa: F401
+from Health_ensurance_Module import config  # noqa: F401

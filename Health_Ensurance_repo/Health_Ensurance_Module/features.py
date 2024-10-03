@@ -4,7 +4,7 @@ import typer
 from loguru import logger
 from tqdm import tqdm
 
-from Health_Ensurance_Module.config import PROCESSED_DATA_DIR
+from Health_ensurance_Module.config import PROCESSED_DATA_DIR
 
 app = typer.Typer()
 

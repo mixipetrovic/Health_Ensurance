@@ -1,8 +1,8 @@
-# Healt_Ensurance documentation!
+# Health_Ensurance documentation!
 
 ## Description
 
-Im trying this ML project on health ensurance
+working with health ensurance data
 
 ## Commands
 

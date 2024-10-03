@@ -1,10 +1,10 @@
-# Healt_Ensurance
+# Health_Ensurance
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Im trying this ML project on health ensurance
+working with health ensurance data
 
 ## Project Organization
 
@@ -27,7 +27,7 @@ Im trying this ML project on health ensurance
 │                         `1.0-jqp-initial-data-exploration`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         Health_Ensurance_Module and configuration for tools like black
+│                         Health_ensurance_Module and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
@@ -39,9 +39,9 @@ Im trying this ML project on health ensurance
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
-└── Health_Ensurance_Module   <- Source code for use in this project.
+└── Health_ensurance_Module   <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes Health_Ensurance_Module a Python module
+    ├── __init__.py             <- Makes Health_ensurance_Module a Python module
     │
     ├── config.py               <- Store useful variables and configuration
     │
